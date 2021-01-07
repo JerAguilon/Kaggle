@@ -40,7 +40,7 @@ jupyter-latex-envs==1.4.4
 jupyter-nbextensions-configurator==0.4.0
 kaggle-cli==0.12.13
 kiwisolver==1.0.1
-lxml==4.2.1
+lxml==4.6.2
 MarkupSafe==1.0
 matplotlib==2.2.2
 MechanicalSoup==0.8.0
